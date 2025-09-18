@@ -1,3 +1,4 @@
+%hkidfyv
 %% INPUT FILE (main)
 clear
 clc
@@ -81,3 +82,4 @@ K_global = assemble_stiffness(nodes, elements, IN); % global stiffness matrix
 %disp(f);
 
 v = visualise(IN, nodes, elements, u); % plotting
+
