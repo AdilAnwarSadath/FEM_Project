@@ -1,7 +1,6 @@
-%andi
+%andi adil
 %% INPUT FILE (main)
-clear
-clc
+clc; clearvars;
 
 %% ----------------INPUT--------------------
 
@@ -45,7 +44,6 @@ PL.P        = 1000;     % Force
 BC.fixed_BC_position = [-1]; %set to -1 if such a boundary condition is not there.
 BC.pinned_BC_position =[0];
 BC.roller_BC_position = [15];
-
 
 
 
