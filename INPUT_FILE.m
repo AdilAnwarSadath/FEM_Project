@@ -1,4 +1,4 @@
-%hkidfyv
+%andi
 %% INPUT FILE (main)
 clear
 clc
